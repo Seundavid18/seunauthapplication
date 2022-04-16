@@ -1,0 +1,25 @@
+.content{
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+
+.form-div{
+  width: auto;
+}
+
+.footer{
+  width: 100%;
+  height: auto;
+  background: #222;
+  padding: 70px 20px;
+  color: #f5f5f5;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: Roboto;
+}
+
+.space{
+  margin-bottom: 300px;
+}
